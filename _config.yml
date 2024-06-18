@@ -1,0 +1,8 @@
+title: privacypolicy
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+# プライバシーポリシーのパス
+privacy_policy_path: "privacypolicy/privacypolicy.md"
