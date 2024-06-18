@@ -1,8 +1,7 @@
-title: privacypolicy
+title: catchsnap
 
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
-# プライバシーポリシーのパス
 privacy_policy_path: "privacypolicy/privacypolicy.md"
