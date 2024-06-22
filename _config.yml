@@ -1,7 +1,0 @@
-title: catchsnap
-
-theme: jekyll-theme-cayman
-plugins:
-- jekyll-remote-theme
-
-privacy_policy_path: "privacypolicy/privacypolicy.md"
