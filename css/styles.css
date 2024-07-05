@@ -89,7 +89,7 @@ h1 {
     cursor: pointer;
 }
 
-img {
+.main-image {
     max-width: 100%;
     height: auto;
     display: block;
